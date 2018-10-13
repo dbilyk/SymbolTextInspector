@@ -1,0 +1,25 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "Symbol Text Inspector",
+      "shortcut":"ctrl + option + cmd + t",
+      "handlers" : {
+        "run" : "main"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "Symbol Text Inspector",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.0746ed61-a8c7-4720-8b60-2c7527150afc",
+  "version" : "1.0",
+  "description" : "Easily check the text specs without going into the symbol master.",
+  "authorEmail" : "dmitri.bilyk@gmail.com",
+  "name" : "Symbol Text Inspector"
+}
