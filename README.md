@@ -1,5 +1,5 @@
 # Symbol Text Inspector  
-###Ctrl + Cmd + Opt + T
+##Ctrl + Cmd + Opt + T
 
 ## How to use
 
