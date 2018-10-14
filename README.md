@@ -1,4 +1,5 @@
-# Symbol Text Inspector  Ctrl + Cmd + Opt + T
+# Symbol Text Inspector  
+###Ctrl + Cmd + Opt + T
 
 ## How to use
 
