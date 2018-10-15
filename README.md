@@ -1,6 +1,9 @@
 # Symbol Text Inspector  
 ### Ctrl + Cmd + Opt + T
 
+## Download Link
+v1.0: https://github.com/dbilyk/SymbolTextInspector/files/2475995/Symbol-Text-Inspector.sketchplugin.zip
+
 ## How to use
 
 Just select a symbol and hit `Ctrl + Cmd + Opt + T` or select Symbol Text Inspector from the plugin menu.  If it has text overrides, you'll see a summary of all the text specifications that sketch exposes. 
