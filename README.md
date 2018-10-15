@@ -1,8 +1,7 @@
 # Symbol Text Inspector  
-### Ctrl + Cmd + Opt + T
 
-## Download Link
-v1.0: https://github.com/dbilyk/SymbolTextInspector/files/2475995/Symbol-Text-Inspector.sketchplugin.zip
+### Download
+https://github.com/dbilyk/SymbolTextInspector/files/2475995/Symbol-Text-Inspector.sketchplugin.zip
 
 ## How to use
 
