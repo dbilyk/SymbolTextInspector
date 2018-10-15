@@ -1,9 +1,9 @@
 # Symbol Text Inspector  
 
-![image](http://dmitribilyk.com/images/SymbolTextInspector/screenshot.png)
-
 ### Download
 https://github.com/dbilyk/SymbolTextInspector/files/2475995/Symbol-Text-Inspector.sketchplugin.zip
+
+![image](http://dmitribilyk.com/images/SymbolTextInspector/screenshot.png)
 
 ## How to use
 
