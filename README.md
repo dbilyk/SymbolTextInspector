@@ -1,6 +1,6 @@
 # Symbol Text Inspector  
 
-### Download
+### Download the plugin
 https://github.com/dbilyk/SymbolTextInspector/files/2496311/Symbol-Text-Inspector.sketchplugin.zip
 
 ![image](http://dmitribilyk.com/images/SymbolTextInspector/screenshot.png)
